@@ -1,4 +1,5 @@
 # PlatformIO
+.vscode
 .pioenvs
 .piolibdeps
 .clang_complete
